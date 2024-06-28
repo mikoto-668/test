@@ -10,7 +10,7 @@
 
 <h2>環境構築</h2>
 ## Dockerビルド
-1.
+'1.git@github.com:mikoto-668/test.git'
 2.docker-compose up -d -build
 
 ※MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose up -d -buildファイルを編
